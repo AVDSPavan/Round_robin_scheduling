@@ -256,4 +256,5 @@ int main()
 {
 	printf("1. Enter Arrival times as hr and min separated by SPACE in 24 hour format. eg: 10:30 AM as 10 30\n2. These should be in Ascending order\n");
 	start();
+	
 }
